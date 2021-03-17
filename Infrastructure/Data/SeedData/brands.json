@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Brand": "React"
+  },
+  {
+    "Id": 2,
+    "Brand": "TypeScript"
+  },
+  {
+    "Id": 3,
+    "Brand": "Angular"
+  },
+  {
+    "Id": 4,
+    "Brand": "Felix"
+  },
+  {
+    "Id": 5,
+    "Brand": "Js"
+  }
+]

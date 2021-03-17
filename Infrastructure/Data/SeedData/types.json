@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Cup"
+  },
+  {
+    "Id": 2,
+    "Name": "Mug"
+  },
+  {
+    "Id": 3,
+    "Name": "Chair"
+  },
+  {
+    "Id": 4,
+    "Name": "Book"
+  },
+  {
+    "Id": 5,
+    "Name": "Frame"
+  },
+  {
+    "Id": 6,
+    "Name": "Mouse"
+  }
+]

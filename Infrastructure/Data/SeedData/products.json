@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Coffe Cup",
+    "Description": "A cool design coffee cup",
+    "Price": 15,
+    "PictureUrl": "images/products/img-1.png",
+    "ProductType": "Cup",
+    "ProductTypeId": 1,
+    "ProductBrand": "Js",
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Mug",
+    "Description": "A mug for tea",
+    "Price": 25,
+    "PictureUrl": "images/products/img-2.png",
+    "ProductType": "Mug",
+    "ProductTypeId": 2,
+    "ProductBrand": "Js",
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Gaming Chair",
+    "Description": "New design gaming chair with wheels",
+    "Price": 250,
+    "PictureUrl": "images/products/img-3.png",
+    "ProductType": "Chair",
+    "ProductTypeId": 3,
+    "ProductBrand": "Felix",
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Mouse",
+    "Description": "A high dpi gaming mouse",
+    "Price": 75,
+    "PictureUrl": "images/products/img-7.png",
+    "ProductType": "Mouse",
+    "ProductTypeId": 6,
+    "ProductBrand": "Angular",
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Typescript Guru",
+    "Description": "Step by step guide to Typescript",
+    "Price": 100,
+    "PictureUrl": "images/products/img-4.png",
+    "ProductType": "Book",
+    "ProductTypeId": 4,
+    "ProductBrand": "TypeScript",
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Rgb Photo",
+    "Description": "A cool photo frame with Rgb",
+    "Price": 99,
+    "PictureUrl": "images/products/img-5.png",
+    "ProductType": "Frame",
+    "ProductTypeId": 5,
+    "ProductBrand": "React",
+    "ProductBrandId": 1
+  }
+]
