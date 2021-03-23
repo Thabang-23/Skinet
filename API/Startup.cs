@@ -26,6 +26,7 @@ namespace API
                                                                     ("DefaultConnection")));
             services.AddControllers();
             services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped(typeof(IGenericRepository<>), (typeof(GenericRepository<>)));
            
         }
 
