@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Portfolio\\Skinet\\API\\API.csproj": {}
+    "C:\\Portfolio\\Skinet\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Portfolio\\Skinet\\API\\API.csproj": {
+    "C:\\Portfolio\\Skinet\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Portfolio\\Skinet\\API\\API.csproj",
+        "projectUniqueName": "C:\\Portfolio\\Skinet\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Portfolio\\Skinet\\API\\API.csproj",
+        "projectPath": "C:\\Portfolio\\Skinet\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Thabang Khoza\\.nuget\\packages\\",
-        "outputPath": "C:\\Portfolio\\Skinet\\API\\obj\\",
+        "outputPath": "C:\\Portfolio\\Skinet\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
